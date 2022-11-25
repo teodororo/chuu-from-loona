@@ -1,4 +1,4 @@
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)] (https://www.kaggle.com/datasets/giovannasouzateodoro/chuu-do-loona)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/giovannasouzateodoro/chuu-do-loona)
 
 # 🍎 Exploratory spatial data analysis: Chuu from LOONA
 
